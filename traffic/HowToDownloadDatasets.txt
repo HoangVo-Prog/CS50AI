@@ -1,0 +1,2 @@
+# Use the German Traffic Sign Recognition Benchmark (GTSRB) dataset
+# Download link: https://cdn.cs50.net/ai/2023/x/projects/5/gtsrb.zip
